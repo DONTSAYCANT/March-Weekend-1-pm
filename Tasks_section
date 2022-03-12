@@ -32,7 +32,15 @@ March 12
 ====================
 
 study in detail about input function
+
 Data type conversion (int to float,bool,string)
+
+
+int ===> float str  bool
+float ===> int bool str
+bool ===> int float str
+str ===> int bool float
+
 study in detail about print function
 
 
