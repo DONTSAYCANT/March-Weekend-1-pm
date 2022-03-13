@@ -54,5 +54,5 @@ print(a[::1])	computeR_science
 print(a[::2])	cmue_cec
 print(a[::3])	cpesee
 print(a[::-1])	ecneics_retupmoc
-print(a[::-2])	 ?
-print(a[::-3])	 ?
+print(a[::-2])	 enisrtpo
+print(a[::-3])	eesepc
