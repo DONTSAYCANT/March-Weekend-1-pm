@@ -143,3 +143,14 @@ print(a[5:12:5])
 print(a[3:-3:3])
 print(a[-5:-3:20])
 
+
+
+
+Pre study:
+
+python Data structures
+https://www.w3schools.com/python/python_ref_string.asp
+https://www.w3schools.com/python/python_ref_list.asp
+https://www.w3schools.com/python/python_ref_dictionary.asp
+https://www.w3schools.com/python/python_ref_tuple.asp
+https://www.w3schools.com/python/python_ref_set.asp
