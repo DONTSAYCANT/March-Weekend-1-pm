@@ -1,0 +1,53 @@
+TYPE 1:	
+	
+print(a[3:8])	puter
+print(a[5:-5])	ter_sc
+print(a[-12:-7])	uter_
+print(a[-10:15])	er_scienc
+print(a[:6])	comput
+print(a[:-7])	computer_
+print(a[5:])	ter_science
+print(a[-10:])	er_science
+print(a[:])	computer_science
+print(a[4:100])	uter_science
+print(a[12:5]) 	empty
+	
+TYPE 2	
+print(val[3:10])	puter_s
+print(val[3:10:1])	puter_s
+print(val[3:10:2])	ptrs
+print(val[3:10:3])	pes
+print(val[5:-5:1])	ter_sc
+print(val[5:-5:2])	trs
+print(val[5:-5:5])	tc
+print(val[:8:4])	cu
+print(val[5::3])	t_ic
+print(val[::2])	cmue_cec
+print(val[12:5:3])	empty
+	
+TYPE 3	
+print(a[2:-2:2])	mue_ce
+print(a[2:-2:-2])	empty
+print(a[-2:2:2])	empty
+print(a[-2:2:-2])	cec_eu
+print(a[3:-3:3])	pese
+print(a[3:-3:-3])	empty
+print(a[-3:3:3])	empty
+print(a[-3:3:-3])	ncru
+
+print(a[6::3])	esee
+print(a[6::-3])	epc
+print(a[:8:3])	cpe
+print(a[:8:-3])	ees
+print(a[2::5])	mre
+print(a[10::-5])	ctc
+print(a[:6:1])	comput
+print(a[:7:-2])	enis
+	
+TYPE 5	
+print(a[::1])	computeR_science
+print(a[::2])	cmue_cec
+print(a[::3])	cpesee
+print(a[::-1])	ecneics_retupmoc
+print(a[::-2])	 ?
+print(a[::-3])	 ?
