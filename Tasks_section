@@ -144,7 +144,7 @@ print(a[3:-3:3])
 print(a[-5:-3:20])
 
 ==============================================
-String methods Tasks Feb 19
+String methods Tasks March 19
 ==============================================
 
 
@@ -242,7 +242,7 @@ Task12:
 python divison
 
 =======================
-Feb 19
+March 19
 =======================
 
 Difference between List Tuple Set Dictionary (5 + differences)
@@ -270,7 +270,7 @@ Tuple
 
 
 ===========================================
-Feb 20, 2022
+March 20, 2022
 =========================================
 
  Sets
