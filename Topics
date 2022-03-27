@@ -7,9 +7,9 @@ String Indexing and slicing (completed)
 String Methods (completed)
 Data structures in python (list/tuple/set/Dictionary) (completed)
 Data structure method (completed)
-Conditional stmt
-Loops (while for )
-Functions in python
+Conditional stmt (completed)
+Loops (while for ) (completed)
+Functions in python (completed)
 
 Miniproject and project1 
 Test1 (50 marks)  Test1 (50 marks (50 mins), pass mark: 35, 25 marks mcq+ 25 marks pgms (5 pgms)) 
@@ -23,34 +23,37 @@ https://www.geeksforgeeks.org/python-programming-examples/  (75 pgms before Test
 
 Medium level (15 - 20 days)
 
-Modules in python 
-Anonymous functions 
-Comprehensions 
-Exception Handling  
-File handling 
-OS and sys module 
-itertools module 
-Collections module 
-Datetime module 
-Regular expression 
+Mini project and Project1 Introduction (April 2) 
+Modules in python (April 2)
+Anonymous functions (April 2)
+Comprehensions (April 2)
+Exception Handling  (April 2)
+File handling (April 2)
+OS and sys module (April 9)
+itertools module (April 9)
+Collections module (April 9)
+Datetime module (April 9)
+Regular expression (April 10)
+Test2 (April 10)
 
 Project2:
 Test2   (eligibility: 330 point hackerrank python (Or Hackerrank 200, GeeksforGeeks: 100 pgms), 300 points in hackerrank regex, miniproject/project1 should be completed project2 50%,)
 
 Advanced level (15-days)
 
-OOPS  (On going)
-Inheritance
-Abstract class
-Encapsulation
-polymorphism
-Multi threading
-Database connectivity
-Decorators / generator / iterators  / dynamic args /closures pending concepts
-Networking basics
-Django basics
+Multi threading (April 16)
+Database connectivity (April 16)
+Decorators / generator / iterators  / dynamic args /closures pending concepts (April 16)
+Networking basics (April 16)
+Django basics (April 16)
+project 2/3/4 introduction (April 17)
+OOPS Introduction  (April 17)
+Inheritance (April 23)
+Abstract class (April 23)
+Encapsulation (April 23)
+polymorphism (April 23)
+Project review / Doubts Discussion / Concepts Discussion (April 24 & April 30)  ===> Syllabus completion
 
 
-Project3
-Test3
-Resume review / linked review
+
+
