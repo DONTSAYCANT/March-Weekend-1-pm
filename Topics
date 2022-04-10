@@ -15,9 +15,9 @@ Miniproject and project1
 Test1 (50 marks)  Test1 (50 marks (50 mins), pass mark: 35, 25 marks mcq+ 25 marks pgms (5 pgms)) 
 (eLigibility: Hackerrank  200-220 points, 
               mini project completion, 
-              project1 completion, 
+              project1 completion (60% - 80 %), 
               75 pgms from https://www.geeksforgeeks.org/python-programming-examples/)
-Test1 Date: 
+Test1 Date: April 17  (Review April 16)
 
 https://www.geeksforgeeks.org/python-programming-examples/  (75 pgms before Test1 date)
 
@@ -28,13 +28,12 @@ Modules in python (April 2)
 Anonymous functions (April 2)
 Comprehensions (April 2)
 Exception Handling  (April 2)
-File handling (April 9)
-OS and sys module (April 9)
-itertools module (April 9)
-Collections module (April 9)
-Datetime module (April 9)
-Regular expression (April 10)
-Test2 (April 10)
+File handling (April 10)
+OS and sys module (April 10)
+itertools module (April 10)
+Collections module (April 10)
+Datetime module (April 10)
+Regular expression (April 16)
 
 Project2:
 Test2   (eligibility: 330 point hackerrank python (Or Hackerrank 200, GeeksforGeeks: 100 pgms), 300 points in hackerrank regex, miniproject/project1 should be completed project2 50%,)
